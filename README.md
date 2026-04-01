@@ -41,41 +41,64 @@ O layout foi pensado para transmitir **seriedade, profissionalismo e acolhimento
  ┗ 📁 assets (imagens, fontes, etc)
 
 
- 🖥️ Tecnologias utilizadas
-HTML5
-CSS3
-JavaScript (Vanilla)
-🎯 Objetivo
+---
 
-Desenvolver um site institucional com alto padrão visual, voltado para:
+## 🖥️ Tecnologias utilizadas
 
-Escritórios de advocacia
-Profissionais liberais
-Empresas que precisam de presença digital
-📸 Preview
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-(adicione aqui prints do site depois — isso aumenta MUITO seu valor)
+---
 
-📱 Responsividade
+## 🎯 Objetivo
 
-O site foi desenvolvido com foco em:
+Criar um site institucional de alto padrão visual, ideal para:
 
-📲 Mobile First
-💻 Desktop moderno
-📊 Boa experiência em diferentes dispositivos
-🔗 Contato
+- Escritórios de advocacia
+- Profissionais liberais
+- Pequenas e médias empresas
 
-Caso tenha interesse em um projeto como este:
+---
 
-📱 WhatsApp: https://wa.me/5511999999999
+## 📸 Preview do projeto
 
-📧 Email: contato@escritorio.com.br
+> <img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/e5fe8695-accf-437d-b95d-c0736ca4778f" />
 
-👨‍💻 Desenvolvido por
 
-Mark Solutions
+---
+
+## 📱 Responsividade
+
+O site foi desenvolvido para funcionar perfeitamente em:
+
+- 📱 Dispositivos móveis
+- 💻 Computadores
+- 📊 Diferentes tamanhos de tela
+
+---
+
+## 🔗 Contato
+
+Se você deseja um site profissional como este:
+
+📱 WhatsApp: https://wa.me/5511970207381  
+📧 Email: eduardomarkr@gmail.com  
+
+---
+
+## 👨‍💻 Desenvolvido por
+
+**Mark Solutions**
 
 Projeto desenvolvido com foco em design moderno, performance e experiência do usuário.
+
+---
+
+## ⚠️ Observações
+
+Este projeto pode ser totalmente adaptado para diferentes tipos de negócio.
+
 
 ⚠️ Observações
 
