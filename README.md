@@ -8,10 +8,10 @@ Site institucional desenvolvido para um escritório de advocacia com foco em **a
 
 Este projeto consiste em um site moderno, responsivo e estratégico para escritórios jurídicos, com foco em:
 
-- Autoridade e confiança
-- Clareza na comunicação
-- Experiência do usuário (UX)
-- Conversão de contatos (WhatsApp e formulário)
+- Autoridade e confiança  
+- Clareza na comunicação  
+- Experiência do usuário (UX)  
+- Conversão de contatos (WhatsApp e formulário)  
 
 O layout foi pensado para transmitir **seriedade, profissionalismo e acolhimento**, alinhado ao posicionamento jurídico.
 
@@ -19,35 +19,33 @@ O layout foi pensado para transmitir **seriedade, profissionalismo e acolhimento
 
 ## 🚀 Funcionalidades
 
-✔️ Página institucional completa  
-✔️ Navegação por seções (One Page)  
-✔️ Botão direto para WhatsApp  
-✔️ Formulário de contato  
-✔️ Seção de áreas de atuação  
-✔️ Depoimentos de clientes  
-✔️ FAQ interativo  
-✔️ Layout responsivo (mobile + desktop)  
-✔️ Animações suaves de entrada (reveal)
+- ✔️ Página institucional completa  
+- ✔️ Navegação por seções (One Page)  
+- ✔️ Botão direto para WhatsApp  
+- ✔️ Formulário de contato  
+- ✔️ Seção de áreas de atuação  
+- ✔️ Depoimentos de clientes  
+- ✔️ FAQ interativo  
+- ✔️ Layout responsivo (mobile + desktop)  
+- ✔️ Animações suaves de entrada (reveal)  
 
 ---
 
 ## 🧩 Estrutura do projeto
 
-```bash
 📁 projeto
- ┣ 📄 index.html
- ┣ 📄 style.css
- ┣ 📄 script.js
- ┗ 📁 assets (imagens, fontes, etc)
-
+┣ 📄 index.html
+┣ 📄 style.css
+┣ 📄 script.js
+┗ 📁 assets (imagens, fontes, etc)
 
 ---
 
 ## 🖥️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
 
 ---
 
@@ -55,16 +53,15 @@ O layout foi pensado para transmitir **seriedade, profissionalismo e acolhimento
 
 Criar um site institucional de alto padrão visual, ideal para:
 
-- Escritórios de advocacia
-- Profissionais liberais
-- Pequenas e médias empresas
+- Escritórios de advocacia  
+- Profissionais liberais  
+- Pequenas e médias empresas  
 
 ---
 
 ## 📸 Preview do projeto
 
-> <img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/e5fe8695-accf-437d-b95d-c0736ca4778f" />
-
+<img width="1917" height="985" alt="preview do projeto" src="https://github.com/user-attachments/assets/e5fe8695-accf-437d-b95d-c0736ca4778f" />
 
 ---
 
@@ -72,9 +69,9 @@ Criar um site institucional de alto padrão visual, ideal para:
 
 O site foi desenvolvido para funcionar perfeitamente em:
 
-- 📱 Dispositivos móveis
-- 💻 Computadores
-- 📊 Diferentes tamanhos de tela
+- 📱 Dispositivos móveis  
+- 💻 Computadores  
+- 📊 Diferentes tamanhos de tela  
 
 ---
 
@@ -96,10 +93,5 @@ Projeto desenvolvido com foco em design moderno, performance e experiência do u
 ---
 
 ## ⚠️ Observações
-
-Este projeto pode ser totalmente adaptado para diferentes tipos de negócio.
-
-
-⚠️ Observações
 
 Este projeto é um modelo institucional e pode ser adaptado para diferentes segmentos.
